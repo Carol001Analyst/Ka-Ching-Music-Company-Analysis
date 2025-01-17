@@ -4,6 +4,7 @@ Here's some observations from the company’s information.
 3.	The Rolling Stones was their top performing artist or band as they brought in highest revenue over the given period of time.
 4.	Rock was hands down, the best-selling genre followed by funk/soul. Then hiphop was the third best.
 5.	For the sub-genres, blues rock, electric blues, and the harmonica blues performed the most poorly in terms of sales made.
+6.	
 RECOMMENDATIONS
 1.	Ka'Ching Company should review what they might have done differently with their artists in year 1970, which might have resulted in more albums being sold than the rest of the years. If they exercised maybe more active advertising, more artist tours, and album discounts, they can then replicate more of that going forward. 
 2.	The company could also assess how they managed The Rolling Stones band over time and practise the same for their other artists. They could even try to see if the band could share what they do differently to emerge as the customers' favorites.
